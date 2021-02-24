@@ -1,0 +1,3 @@
+Link to image dataset:
+
+https://storage.googleapis.com/pokemon_model/input.zip

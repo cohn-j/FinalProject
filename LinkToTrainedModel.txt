@@ -1,0 +1,3 @@
+Link to trained model:
+
+https://console.cloud.google.com/storage/browser/pokemon_model;tab=objects?project=data-bootcamp-project-291822&folder=&organizationId=
